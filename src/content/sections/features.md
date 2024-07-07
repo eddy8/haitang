@@ -16,8 +16,8 @@ features:
     icon: "tabler:list-details"
     color: "bg-amber-500"
 
-  - title: "支持小程序"
-    description: "诗韵中华的小程序、公众号已经上线，微信搜索 口袋诗社 即可开始使用"
+  - title: "多平台支持"
+    description: "打开系统浏览器即可畅享极致体验"
     icon: "tabler:brand-wechat"
     color: "bg-lime-500"
 
